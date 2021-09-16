@@ -1,0 +1,9 @@
+{
+	"name": "stephen-adf",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "32fb5467-24a6-4263-935e-10ef96e7fa53",
+		"tenantId": "974863df-2e03-4a39-853e-cb5ff324083a"
+	}
+}
